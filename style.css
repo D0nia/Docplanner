@@ -1,0 +1,116 @@
+body{
+    background-color:white;
+    
+}
+/*navbar*/
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+#color{
+    color:#00c3a5;
+}
+
+#links-colors{
+    color: #c4c4c4; 
+}
+#link-colors:hover{
+    color:#00c3a5;
+}
+
+/*section info*/
+.jumbotron{
+    background-color: white;   
+}
+#head-color{
+    color:#00c3a5;
+}
+
+#text-color{
+    color: #c4c4c4;
+}
+/*section doc/patient*/
+.book{
+    background-color: #00ccb1;
+    border-radius: 15px;
+    box-sizing: border-box;
+    height: 450px;
+    margin-top: 100px;
+    color: white;
+   
+}
+    
+.managing{
+    background-color: #3d83df;
+    border-radius: 15px;
+    box-sizing: border-box;
+    height: 450px;
+    margin-top: 100px;
+    color: white;
+}
+.figure{
+    border-radius: 15px;
+    display: flex;
+    align-content: flex-end;
+   
+}
+.btn-group{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.img-responsive{
+    margin-left: 100px;
+}
+.margin{
+    margin-top: 70px;
+}
+
+/*section company*/
+h3{
+    color:#00ccb1; 
+}
+svg{
+    fill: #c4c4c4;
+}
+svg:hover{
+    fill:#00ccb1; 
+}
+/*section platform*/
+.new-back{
+    background-color: #d8f6f6;
+  
+}
+h2{
+    color: #00c3a5;
+}
+.new-clr{
+    color:#c4c4c4;
+
+}
+.border-light{
+    background-color: white;
+    color:#c4c4c4;
+    text-align: center;
+   
+}
+h6{
+    color: #00c3a5;   
+}
+.container-full-bg{
+    height: 100vh;
+}
+/*section img*/
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h5{
+    color:#c4c4c4;
+
+}
+/*footer*/
+.font-size{
+    font-size: 12px;
+    border-top: 0.5px solid rgb(233, 222, 222);
+    height: 15vh;
+}
+
